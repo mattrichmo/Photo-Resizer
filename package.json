@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-pusher-wordpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "imagemin": "^8.0.1",
+    "imagemin-jpegoptim": "^8.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "imagemin-webp": "^8.0.0",
+    "wpapi": "^1.2.2"
+  }
+}
